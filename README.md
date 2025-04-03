@@ -74,3 +74,5 @@ Edit
 idf.py -p /dev/ttyACM0 monitor
 Visit the Bitaxe Web UI from your network (hostname or IP address)
 
+I amn not taking full credit for this script as it was made with help of Chat GPT special thank you to the Open Source Miners United Discord for the information and guidance needed to make this happen especialy to mutatrum for explaining to me what needs to be done. 
+
